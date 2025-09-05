@@ -1,4 +1,4 @@
-# 🎥 Cinema Movie Booking App
+# 🎥 AcmeBuddy
 
 Welcome to **AcmeBuddy**, a full-stack web application for booking movie tickets. This project showcases a **Spring Boot** backend (Java 17) connected to a **MySQL** database, and a **React** (TypeScript) frontend. The primary goal of this project is to demonstrate clean architecture, smooth user flow, and an attractive UI/UX to ensure a smooth user experience.
 
